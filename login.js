@@ -30,7 +30,7 @@ document.getElementById('loginForm').addEventListener('submit', function(e) {
         
         // Redirect ke halaman utama setelah 2 detik
         setTimeout(function() {
-            window.location.href = 'index.html';
+            window.location.href = 'login.html';
         }, 2000);
         
     } else {
